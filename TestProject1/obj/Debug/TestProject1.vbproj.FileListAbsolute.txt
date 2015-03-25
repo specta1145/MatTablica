@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\bin\Debug\GenericTest1.GenericTest
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\bin\Debug\TestProject1.dll
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\bin\Debug\TestProject1.pdb
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\bin\Debug\TestProject1.xml
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\obj\Debug\TestProject1.dll
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\obj\Debug\TestProject1.xml
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\MatTablica\TestProject1\obj\Debug\TestProject1.pdb

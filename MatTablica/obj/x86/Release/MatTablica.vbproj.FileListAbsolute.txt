@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Release\MatTablica.exe.config
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Release\MatTablica.exe
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Release\MatTablica.pdb
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Release\MatTablica.xml
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\MatTablica.Form1.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\MatTablica.Resources.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\MatTablica.ulamki.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\MatTablica.exe
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\MatTablica.xml
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Release\MatTablica.pdb
