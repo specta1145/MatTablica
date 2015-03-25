@@ -1,0 +1,38 @@
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\bin\Debug\MatTablica.exe
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\bin\Debug\MatTablica.pdb
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\bin\Debug\MatTablica.xml
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\MatTablica.Form1.resources
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\MatTablica.Resources.resources
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\MatTablica.exe
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\MatTablica.xml
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\MatTablica.pdb
+C:\Documents and Settings\Administrator\Ustawienia lokalne\Dane aplikacji\Temporary Projects\MatTablica\obj\x86\Debug\MatTablica.ulamki.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.exe
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.xml
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.pdb
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.exe
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.pdb
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.xml
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.Form1.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.Resources.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.ulamki.resources
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.exe.config
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\moje dokumenty\visual studio 2010\Projects\MatTablica\MatTablica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.exe.config
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.xml
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.pdb
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.Form1.resources
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.Resources.resources
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.ulamki.resources
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.vbproj.GenerateResource.Cache
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.exe
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.pdb
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\bin\Debug\MatTablica.xml
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.exe
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.podkrecha.resources
+C:\Users\Specta\Documents\Visual Studio 2013\Projects\MatTablica\MatTablica\obj\x86\Debug\MatTablica.vbprojResolveAssemblyReference.cache
